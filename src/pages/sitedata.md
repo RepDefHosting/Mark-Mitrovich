@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Mark Mitrovich
+jobTitle: Culinary Arts Professional
+location: Bellbrook, OH
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/culinary-arts-professional-mark-mitrovich-skills-and-interests.jpg
+  alt: Culinary Arts Professional Mark Mitrovich - Skills and Interests
+siteUrl: https://www.aboutmarkmitrovich.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/mark-mitrovich-9806791aa
     label: Visit
     show: true
   pinterest:
