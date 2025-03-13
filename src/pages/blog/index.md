@@ -3,9 +3,10 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Before his teaching career, Mr. Mitrovich held positions in the
+  financial sector, serving as a loan officer and manager at 1st Bancorp
+  Mortgage and Union Home Mortgage. He consistently ranked in the top 10 percent
+  of loan production during this time.
 published: true
 schemaType: WebPage
 header: Blog
