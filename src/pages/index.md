@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Mark Mitrovich
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -16,8 +16,11 @@ featuredImage:
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Mark Mitrovich is a seasoned culinary professional and educator
+  with experience in hospitality and finance. A Johnson and Wales University
+  graduate with an AOS in culinary arts, Mark Mitrovich, has dedicated his
+  career to sharing his expertise and nurturing the next generation of culinary
+  and business professionals.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +35,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+[Mark Mitrovich](https://ideamensch.com/mark-mitrovich/) is a seasoned culinary professional and educator with experience in hospitality and finance. A Johnson and Wales University graduate with an AOS in culinary arts, Mark Mitrovich, has dedicated his career to sharing his expertise and nurturing the next generation of culinary and business professionals.
